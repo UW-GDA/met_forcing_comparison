@@ -45,4 +45,9 @@ Repository Organization
 `WA_DEM_plot.ipynb` reads in DEM data for the state of Washington and creates plots
 to help orient the Buckinghorse SNOTEL station and adjacent topography.
 
-
+`buckinghorse_summa.ipynb` runs the SUMMA snow model using the pysumma fortran wrapper
+using the era5 forcing dataset created with processing notebook.
+	-note: there are many other set up files needed to run summa that are not
+	included in this repo to keep it cleaner. See 
+		https://pysumma.readthedocs.io/en/latest/index.html
+	for further documentation on SUMMA initialization.
