@@ -36,7 +36,7 @@ Additional analysis can be attempted to try to downscale gridded products to mor
 resolve complex topography with coarse reanalysis products that are widely available,
 such as ERA5 from the ECMWF.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Repository Organization
 
@@ -59,7 +59,7 @@ using the era5 forcing dataset created with processing notebook.
 This script also plots several of the forcing and output variables and compares to
 SNOTEL observations.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Results
 
