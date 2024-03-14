@@ -35,3 +35,14 @@ in situ observations for this purpose without further modifications to the origi
 Additional analysis can be attempted to try to downscale gridded products to more accurately 
 resolve complex topography with coarse reanalysis products that are widely available,
 such as ERA5 from the ECMWF.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Repository Organization
+
+`era5_analysis.ipynb` plots the era5 temperature and precipitation data for the Olympic
+ Mountains and creates a gif of all daily plots for the water year.
+
+`WA_DEM_plot.ipynb` reads in DEM data for the state of Washington and creates plots
+to help orient the Buckinghorse SNOTEL station and adjacent topography.
+
+
